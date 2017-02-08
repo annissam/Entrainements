@@ -1,0 +1,60 @@
+
+body{
+    background: #FEFDF0;
+}
+
+hr{
+    width: 50%
+}
+
+.container{
+    width: 70%;
+   margin: 4% auto 7%auto;
+   background: #FEFDF0;
+   padding: 2em;
+   left: 0;
+   float: left;
+}
+
+.container1{
+
+   width: 70%;
+   margin: 4% auto 7%auto;
+   background: #FEFDF0;
+   padding: 4em;
+   right: 0;
+   float: right;
+}
+.container2{
+{
+
+   width: 70%;
+   margin: 4% auto 7%auto;
+   background: #FEFDF0;
+   padding: 4em;
+   right: 0;
+   float: left;
+}
+
+.container3{
+
+   width: 70%;
+   margin: 4% auto 7%auto;
+   background: #FEFDF0;
+   padding: 4em;
+   right: 0;
+   float: right;
+}
+.contenaire4{
+
+   width: 70%;
+   margin: 4% auto 7%auto;
+   background: #FEFDF0;
+   padding-left: 4em
+   left: 0;
+   float: left;
+}
+
+.clear{
+   clear: both;
+}
